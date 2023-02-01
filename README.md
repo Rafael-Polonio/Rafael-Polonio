@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: rafaelpolonio@terra.com.br
 
+
+
 <div>
   <a href="[https://github.com/Rafael-Polonio](https://github.com/Rafael-Polonio)"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Polonio&layout=compact&langs_count=16&theme=merko"/>
